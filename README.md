@@ -1,6 +1,21 @@
-![workflow badge](https://github.com/mitzaa/COSC345-Helmet/actions/workflows/gradle.yml/badge.svg)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/2981b8a37e00499fa7ccb5ddc87c7e5f)](https://www.codacy.com/gh/mitzaa/COSC345-Helmet/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mitzaa/COSC345-Helmet&amp;utm_campaign=Badge_Grade)
-[![codecov](https://codecov.io/gh/mitzaa/COSC345-Helmet/branch/main/graph/badge.svg?token=WH6JSPL0OA)](https://codecov.io/gh/mitzaa/COSC345-Helmet)
+
+** About Culturle! **
+A daily puzzle game designed to promote cultural understanding and friendly competition in whcih users attempt to determine a country based on 5 images which represent the country.
+
+Culturle is in the style of Wordle and similar games where users are given one new country to guess per day. The target country is be indicated based on a series of images which represent different cultural elements from the country. These cultural elements are the national cuisine, animal, and flag as well as a famous artwork, landscape and greeting from the country. The user is also given the distance from the country they guessed to the target country to help with their next guess. Users are able to maintain streaks, track statistics and share their results with their friends.
+
+![Home Screen](https://github.com/MichaelYoung00/Culturle/assets/97869940/bef5d4a5-2e71-4d48-be53-94bbf72a1240)
+
+![National Artwork](https://github.com/MichaelYoung00/Culturle/assets/97869940/73ab4143-644e-4c6b-846d-b5f6842c54e2)
+
+![Cusine Screen](https://github.com/MichaelYoung00/Culturle/assets/97869940/756bf8f7-80c1-4074-88c3-8c3a6456bf7d)
+
+![Flag Screen](https://github.com/MichaelYoung00/Culturle/assets/97869940/288a7766-cc51-40be-84f2-3ed49d3f4d32)
+
+![Chad End Screen](https://github.com/MichaelYoung00/Culturle/assets/97869940/551c5a49-78f8-42fa-b26f-de8a71a67ed9)
+
+![Already Attempted](https://github.com/MichaelYoung00/Culturle/assets/97869940/80ca513b-65fe-4131-92a6-bca7b3a27c83)
 
 Release 1- October 7th, 2022: 
 We are excited to share with you our final release before launch!
